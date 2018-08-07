@@ -1,0 +1,24 @@
+.top_div{
+	border-style:dotted;
+	background-color: red;
+
+}
+.purple_one{
+	color:purple;
+	font-size: 20px;
+	background-color: yellow;
+}
+.blue_one{
+	color:blue;
+	background-color: red;
+}
+
+.listing_outer{
+	font-size:30px;
+	background-color: green;
+	border-style:dashed;
+}
+.listing_inner{
+	font-size:25px;
+	background-color: red
+}
